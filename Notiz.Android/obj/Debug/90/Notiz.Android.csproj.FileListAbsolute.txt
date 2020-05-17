@@ -478,3 +478,5 @@ C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\stamp\_ConvertResou
 C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\res\drawable\delete.png
+C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\res\drawable\add.png
