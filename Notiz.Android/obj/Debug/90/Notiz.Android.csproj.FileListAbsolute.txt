@@ -480,3 +480,8 @@ C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\stamp\_GeneratePack
 C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\res\drawable\delete.png
 C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\res\drawable\add.png
+C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+C:\Users\nkeps\source\repos\Notiz\Notiz.Android\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
