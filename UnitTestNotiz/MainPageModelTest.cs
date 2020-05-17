@@ -10,6 +10,7 @@ namespace UnitTestNotiz
 	[TestFixture]
 	public class MainPageModelTest
 	{
+		// 2 Notes added and one removed after.
 		[Test]
 		public void DeleteNoteAfterAddedTest()
 		{
@@ -27,6 +28,8 @@ namespace UnitTestNotiz
 			vm.DeleteNoteCommand.Execute(item);
 			Assert.AreEqual(1, vm.NotizEntries.Count);
 		}
+
+		// Check if the list have 1 element added.
 		[Test]
 		public void NoteAddedFromUITest()
 		{
