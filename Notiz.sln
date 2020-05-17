@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notiz.Android", "Notiz.Android\Notiz.Android.csproj", "{64C2C643-B0AA-49E1-A1F6-A74236783253}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notiz", "Notiz\Notiz.csproj", "{A035DAA5-D9C0-4780-8A0C-815A87D5C943}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notiz", "Notiz\Notiz.csproj", "{A035DAA5-D9C0-4780-8A0C-815A87D5C943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestNotiz", "UnitTestNotiz\UnitTestNotiz.csproj", "{194DC04C-D043-4BB1-A584-C34EDACC8801}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{A035DAA5-D9C0-4780-8A0C-815A87D5C943}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A035DAA5-D9C0-4780-8A0C-815A87D5C943}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A035DAA5-D9C0-4780-8A0C-815A87D5C943}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{194DC04C-D043-4BB1-A584-C34EDACC8801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{194DC04C-D043-4BB1-A584-C34EDACC8801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{194DC04C-D043-4BB1-A584-C34EDACC8801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{194DC04C-D043-4BB1-A584-C34EDACC8801}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

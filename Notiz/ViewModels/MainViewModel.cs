@@ -8,7 +8,7 @@ using Xamarin.Forms;
 
 namespace Notiz.ViewModels
 {
-	class MainViewModel : BaseViewModel
+	public class MainViewModel : BaseViewModel
 	{
 		public const string IMAGE_URL = "https://picsum.photos/200";
 		private ObservableCollection<NoteObj> _notizEntries;
@@ -25,7 +25,6 @@ namespace Notiz.ViewModels
 		}
 		public ICommand SaveNoteCommand => new Command(AddNoteToListAsync);
 		public ICommand DeleteNoteCommand => new Command<NoteObj>(RemoveItemfromList);
-
 
 		public ObservableCollection<NoteObj> NotizEntries
 		{
