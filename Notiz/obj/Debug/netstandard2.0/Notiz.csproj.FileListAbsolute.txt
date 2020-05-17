@@ -1,0 +1,16 @@
+C:\Users\nkeps\source\repos\Notiz\Notiz\obj\Debug\netstandard2.0\Notiz.csprojAssemblyReference.cache
+C:\Users\nkeps\source\repos\Notiz\Notiz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nkeps\source\repos\Notiz\Notiz\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\nkeps\source\repos\Notiz\Notiz\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\nkeps\source\repos\Notiz\Notiz\obj\Debug\netstandard2.0\Notiz.csproj.CoreCompileInputs.cache
+C:\Users\nkeps\source\repos\Notiz\Notiz\obj\Debug\netstandard2.0\Notiz.AssemblyInfoInputs.cache
+C:\Users\nkeps\source\repos\Notiz\Notiz\obj\Debug\netstandard2.0\Notiz.AssemblyInfo.cs
+C:\Users\nkeps\source\repos\Notiz\Notiz\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\nkeps\source\repos\Notiz\Notiz\bin\Debug\netstandard2.0\Notiz.deps.json
+C:\Users\nkeps\source\repos\Notiz\Notiz\bin\Debug\netstandard2.0\Notiz.dll
+C:\Users\nkeps\source\repos\Notiz\Notiz\bin\Debug\netstandard2.0\ref\Notiz.dll
+C:\Users\nkeps\source\repos\Notiz\Notiz\bin\Debug\netstandard2.0\Notiz.pdb
+C:\Users\nkeps\source\repos\Notiz\Notiz\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nkeps\source\repos\Notiz\Notiz\obj\Debug\netstandard2.0\Notiz.dll
+C:\Users\nkeps\source\repos\Notiz\Notiz\obj\Debug\netstandard2.0\ref\Notiz.dll
+C:\Users\nkeps\source\repos\Notiz\Notiz\obj\Debug\netstandard2.0\Notiz.pdb
