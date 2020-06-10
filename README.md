@@ -14,27 +14,27 @@ simple NotizApp
 
 
 
-
+https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e
 
 
 -----------------------------------
 ApiInterface
-@GET("forecast")
-    Call<WeatherResponse> getForecastHourlyDaily(@Query("q") String city,@Query("appid") String apiKey, @Query("units") String degree, @Query("mode") String typeJson);
+        @GET("forecast")
+            Call<WeatherResponse> getForecastHourlyDaily(@Query("q") String city,@Query("appid") String apiKey, @Query("units") String degree, @Query("mode") String typeJson);
 
 
 --apiclient
-private static Retrofit retrofit = null;
-public static Retrofit getClient() {
-        if (retrofit==null) {
-            retrofit = new Retrofit.Builder()
-                    .baseUrl(BASE_URL)
-                    .addConverterFactory(GsonConverterFactory.create())
-                    .build();
-        }
-        return retrofit;
-    }
-    
+        private static Retrofit retrofit = null;
+        public static Retrofit getClient() {
+                if (retrofit==null) {
+                    retrofit = new Retrofit.Builder()
+                            .baseUrl(BASE_URL)
+                            .addConverterFactory(GsonConverterFactory.create())
+                            .build();
+                }
+                return retrofit;
+            }
+
     -----------------------------call
     public WeatherResponse getWeatherDatas(String city){
        // ApiInterface apiService = ApiClient.getClient().create(ApiInterface.class);
